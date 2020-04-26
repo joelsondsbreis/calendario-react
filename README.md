@@ -22,4 +22,4 @@ Veja a seção sobre[running tests](https://facebook.github.io/create-react-app/
 Cria o aplicativo para produção para o `build`.<br />
 Ele agrupa corretamente o React no modo de produção e otimiza a construção para obter o melhor desempenho.
 
-Seu aplicativo está pronto para ser implantado!
+Seu aplicativo está pronto para ser rodada!
